@@ -1,11 +1,6 @@
-[![MasterHead](https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)](https://ManojJadhav123.io)
-
 <h1 align="center">Hi 👋, I'm Manoj Jadhav</h1>
 <h3 align="center">A Proactive Web Developer with An Eye for Clean Code, an Avid Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojjadhav123&label=Profile%20views&color=0e75b6&style=flat" alt="manojjadhav123" /> </p>
 
 
 - 🌱 I’m currently learning **ReactJS**
