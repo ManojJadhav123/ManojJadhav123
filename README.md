@@ -3,11 +3,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<br>
+<p align="center"> 🌱 I’m currently learning **ReactJS** </p>
+<p align="center"> 💬 Ask me about **Web Development** </p>
 
-- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
